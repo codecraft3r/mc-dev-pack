@@ -839,6 +839,11 @@ hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
 metafile = true
