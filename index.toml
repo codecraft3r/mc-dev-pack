@@ -17,18 +17,6 @@ file = "config/mega_showdown-common.toml"
 hash = "ba8b398d30f91fd997c6b1270df52da5856de9f199837c4599b98bb3e45e0cb7"
 
 [[files]]
-file = "config/mythsandlegends/config.toml"
-hash = "35346fe3202b15d639d74af93abaa2b24c6b7ea6ae4ce638a71d30893e8ce3e3"
-
-[[files]]
-file = "config/mythsandlegends/debts.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mythsandlegends/loot_tables_config.json"
-hash = "f204037315515c4b0588b32ca2dab782d607291cc23bd2737d4c979a63fb05e4"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
