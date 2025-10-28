@@ -1,0 +1,63 @@
+version: "3.8"
+
+services:
+
+  server:
+    volumes:
+        - ./data:/data
+    environment:
+        - EULA=TRUE
+        - MEMORY=12G
+        - RCON_PASSWORD=packwiz
+        - TYPE=NEOFORGE
+        - VERSION=1.21.1
+        - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
+    image: itzg/minecraft-server
+    networks:
+      - lan
+      - mc-net
+    ports:
+      - "25565:25565"
+    restart: always
+
+  mongodb:
+    image: mongodb/mongodb-community-server:latest
+    container_name: mongodb
+    restart: unless-stopped
+    networks:
+      - mc-net
+    ports:
+        - "27017:27017"
+    volumes:
+        - ./mongodb:/data/db
+
+
+
+  backup:
+    image: itzg/mc-backup
+    environment:
+      BACKUP_INTERVAL: "12h"
+      RCON_HOST: server
+      RCON_PASSWORD: packwiz
+      INITIAL_DELAY: 10m
+    volumes:
+      - ./data:/data:ro
+      - ./backup:/backups
+    networks:
+      - mc-net
+    restart: always
+
+  bore:
+    image: ekzhang/bore:latest
+    container_name: bore
+    networks:
+      - mc-net
+    depends_on:
+      - server
+    command: "local --to mc1.poiesis.link --port 25565 --local-host server --secret SQ5tqAi8Y8pu0dmpFVwBDvVjqWg9OEJgyVzVrgtg5OU= 25565"
+    restart: always
+
+networks:
+  mc-net:
+  lan:
+    driver: bridge
