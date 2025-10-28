@@ -33,10 +33,6 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-    deploy:
-      resources:
-        limits:
-          cpus: '2.0'
 
   mongodb: # needed for cobblemon mod
     image: mongodb/mongodb-community-server:latest
