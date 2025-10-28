@@ -1297,3 +1297,263 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
+
+[[files]]
+file = "resourcepacks/-50-of-armor.pw.toml"
+hash = "18a28cb6977188323971dca29a61c6a6d424abe922615e4f5003506d3154d631"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-muskets.pw.toml"
+hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-sugar-cane.pw.toml"
+hash = "4bd0035f84c8b06249ac0b09799ab4f89aaf78aa3ccbdb1538feae2a57fe9ed0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-3d-potions.pw.toml"
+hash = "1aeaed399873a70d09da260738d195cd9c98a5d57f561aee1feba5ec6dec44c1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-by-yartom.pw.toml"
+hash = "0ff26381b5528cbff7f58d547765a5bd1eb658115a14c25f77e1e07165d241fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/armory-conglomery.pw.toml"
+hash = "87f10ab2b270f3ee946cc303c401575cb2b3e63be10547838d596f8a46b58490"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-enchanting-table.pw.toml"
+hash = "2506eb00cc0312f8d4e4531aa4d77ecdb33f309351aa6b906b8abda1e173cf02"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blaksuits-bushy-grass.pw.toml"
+hash = "3444b8ccc5a4b003e8179d749901a96ab9358c4c336c95a2b596158cdfec1b37"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blocky-iron-bars.pw.toml"
+hash = "0216e2ef7a88045559b7ae1c7bf355c1c7f0ccaef021e65c3ecfeb14a748a653"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bushy-pinkpetals-wildflowers-leaflitter.pw.toml"
+hash = "58bc1aab2e6c2be2dea0576396b2b889a1fb4f61b40312355e109c5efd80b6d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chests-reimagined.pw.toml"
+hash = "79c7a30c188101161406e9d137b6973edd19c58e20f9c00bfe3abd419373d048"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-3d-poke-rods.pw.toml"
+hash = "a07092570c4bc9b945851e7364b931b04bae22c7190bc1e384d73fc66f4c6f91"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
+hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-emissive-ores.pw.toml"
+hash = "f7ec4148b1e94aae9739cc1e135bb5452e0272a7e1f3187dce8fa6a980c65fe8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-gui.pw.toml"
+hash = "9affa7745e04595a2b88ce6d6e5eab1ae11d3a8a3ab9f2e4de9281ad71c90fab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "753a052efd39dd6962fcc7ee05150c12ba391377fb43faff4cfeaf118929125e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanting-table-magic-circle.pw.toml"
+hash = "c0310efabba9bb95e006361da2fdbd273840f8ab36bb3d750f0cef3c74f245df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchantment-glows.pw.toml"
+hash = "79b60d5d02ce37e387c463e86c9c6098f75a26350be1c9ce500f7fea72878e9a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-flower-pots.pw.toml"
+hash = "e016323abd12718735001ad6a05298b4638f0db58ef526c0c2ba259543f9fdfe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/flower-clusters.pw.toml"
+hash = "239d242332b4f6000a42b2c8a94d236c905fac88a1b646dfd746dd020ccb5bbf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "c35f41d09504478ac9d85d9a939460511c50676f5ea3a19537a2ac204281506e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "0d77095fb0f0b0158fa07c1ad720f3680392a8c7453cefe750732eda8082e9c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "7d9b9542912fb347ef2eb1bb3955b586732de439e6e9356a461e9bc2749691cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "8ae3d6966d6ae701ea2615a87838536942cb6d7eba690ae33720a82850315d27"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mase-3d-(by-nestter).pw.toml"
+hash = "d0ea2e6d5ede21ae60d036d437aa0b6baf1bf227e876a98cf575517608ec4223"
+metafile = true
+
+[[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "558138f69712448e20cc3c8d72d4a749a175ce5c222913d4fbc009c5a3466651"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "53e2da580a363c839de4c196fae91751accc5e772c065fc0cc4d07b7864f3cf8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "291bb56a5d8add3474d1f321ed60a8442649a190cd32df1f15335e68c01e86c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skeleton-physics.pw.toml"
+hash = "be4ede9c5d6d73dedcb5d3c37f84716a7dffa71cd00bb5e27f4c8d733d6d8a1d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thfa.pw.toml"
+hash = "a7d08befda39ed2f424683fde08a5de721d4bad4776f40e7cb36864257008498"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tooltips-stylized.pw.toml"
+hash = "4f1133f035badb7894f8299000896cdda747a0012151bc560ca1ef7fff4e8ca2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torches-reimagined.pw.toml"
+hash = "6e68b85810ae9a9fc5695c0751182d3c726e4ead1e0f1d12e7b901a5ff56985a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torchified.pw.toml"
+hash = "7ae3b3410e96f11e3aee9ec263c9a93f131da08ee4efc156bdd86f00acae72df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torturable-healthbars.pw.toml"
+hash = "1f8ec5a6a275983f4466ddce80f6682d29b623629392e17896c563532ea97dbf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-armor-trims.pw.toml"
+hash = "d88dacad6b166ce9766867b4224aa175e55cfd75caad6a77f698abee8fec9d11"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/lux-v1.pw.toml"
+hash = "dabc9c9ffd77e03c6e9354f61d70a1d3db912f4e56d12fb65df2870cb209b29e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "ee7d85e560722638174288e87de2c5e8ae82c8242de6614745e52d82acf7700c"
+metafile = true
