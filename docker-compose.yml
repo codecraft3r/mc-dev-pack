@@ -2,25 +2,43 @@ version: "3.8"
 
 services:
 
-  server:
+  mc:
     volumes:
         - ./data:/data
     environment:
         - EULA=TRUE
-        - MEMORY=12G
+        - MEMORY=6G
         - RCON_PASSWORD=packwiz
         - TYPE=NEOFORGE
         - VERSION=1.21.1
-        - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
+        - PACKWIZ_URL=https://raw.githubusercontent.com/codecraft3r/mc-dev-pack/refs/heads/main/pack.toml
+        - ENABLE_RCON=TRUE
     image: itzg/minecraft-server
     networks:
-      - lan
-      - mc-net
+      lan:
+      mc-net:
+        aliases:
+          - server
     ports:
       - "25565:25565"
+    expose:
+      - "25575"
     restart: always
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    healthcheck:
+      test: mc-health
+      start_period: 5m
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
 
-  mongodb:
+  mongodb: # needed for cobblemon mod
     image: mongodb/mongodb-community-server:latest
     container_name: mongodb
     restart: unless-stopped
@@ -30,8 +48,16 @@ services:
         - "27017:27017"
     volumes:
         - ./mongodb:/data/db
-
-
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    deploy:
+      resources:
+        limits:
+          cpus: '0.75'
 
   backup:
     image: itzg/mc-backup
@@ -46,16 +72,13 @@ services:
     networks:
       - mc-net
     restart: always
-
-  bore:
-    image: ekzhang/bore:latest
-    container_name: bore
-    networks:
-      - mc-net
     depends_on:
-      - server
-    command: "local --to mc1.poiesis.link --port 25565 --local-host server --secret SQ5tqAi8Y8pu0dmpFVwBDvVjqWg9OEJgyVzVrgtg5OU= 25565"
-    restart: always
+      mc:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          cpus: '0.25'
 
 networks:
   mc-net:

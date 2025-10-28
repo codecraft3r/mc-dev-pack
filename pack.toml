@@ -1,0 +1,12 @@
+name = "Cobblemon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff30d47c597652eb6be3242bebf3e9ba462c5707bf74d5c403189b556dfa4615"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"

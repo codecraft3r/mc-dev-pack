@@ -1,0 +1,13 @@
+name = "Myths and Legends [Cobblemon Sidemod]"
+filename = "MythsAndLegends-neoforge-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CaOWby9K/versions/occT2ebf/MythsAndLegends-neoforge-1.8.0.jar"
+hash-format = "sha512"
+hash = "e58ab0619f7d34ed80b969bd774d516e8c5a0bb9eb1b83717d19474e76df3038fb20e561d74eeb34e5b125dfd75092c4135a1f65dbe3814fa923cb8450c5e267"
+
+[update]
+[update.modrinth]
+mod-id = "CaOWby9K"
+version = "occT2ebf"
