@@ -1019,16 +1019,6 @@ hash = "a7a0bc3eb9b2b4044f683c338546ccbe5e03f7151985dd518252296737ae78d5"
 metafile = true
 
 [[files]]
-file = "mods/roadarchitect-encounters.pw.toml"
-hash = "64c9788139b3c79f02e439122ba7260bf5928cfa1654923cc5b6e10588415568"
-metafile = true
-
-[[files]]
-file = "mods/roadarchitect.pw.toml"
-hash = "2f47042d251118cf5e2032cad301d3fe307beb80b4e7890e773906f968cd9851"
-metafile = true
-
-[[files]]
 file = "mods/rogues-and-warriors.pw.toml"
 hash = "3ef79014deb7a8e607b3a41644d1daebeb05b86a3bdbcef141256c34889569d5"
 metafile = true
@@ -1170,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "0ea64f910d027db5581afcfda87743203ba71d5a5f7e904bd728797c7513e46a"
+hash = "cca66e030102b9045e08fd28dde13ec74964f49a77775a94c681c22ff6b86474"
 metafile = true
 
 [[files]]
@@ -1201,11 +1191,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
@@ -1291,11 +1276,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
 
 [[files]]
