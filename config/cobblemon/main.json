@@ -6,7 +6,7 @@
   "ambientPokemonCryTicks": 1080,
   "defaultBoxCount": 30,
   "pokemonSaveIntervalSeconds": 30,
-  "storageFormat": "mongodb",
+  "storageFormat": "json",
   "preventCompletePartyDeposit": false,
   "mongoDBConnectionString": "mongodb://mongodb:27017",
   "mongoDBDatabaseName": "cobblemon",
