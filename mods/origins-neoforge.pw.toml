@@ -1,0 +1,13 @@
+name = "Origins (NeoForge)"
+filename = "origins-0.1-alpha.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QaMa6tXQ/versions/lkSennkw/origins-0.1-alpha.2.jar"
+hash-format = "sha512"
+hash = "b6e4af1ae5d87fe5da6f0581040a94b91ae1b8cf7f17f3faf0d85750784b47014a824d842221125805b0a636aa6007a8cb76ff45d83fd68d89e73a45351d62b8"
+
+[update]
+[update.modrinth]
+mod-id = "QaMa6tXQ"
+version = "lkSennkw"
