@@ -1,4 +1,4 @@
-name = "Cobblemon"
+name = "village pack"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
@@ -9,4 +9,4 @@ hash = "ab4a96d9a6f2d22edef581a561ed67d7c69ab78f6097113e975df30c0355c47f"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.209"
+neoforge = "21.1.215"
