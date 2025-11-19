@@ -445,11 +445,6 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "9bd04b84287a7ceaae9333f87bb4ca3741506ac7bc2851174f5bc1dd4e3dcc70"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
 hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
 metafile = true
