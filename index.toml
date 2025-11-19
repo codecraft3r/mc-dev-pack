@@ -10,6 +10,11 @@ hash = "89f987050a8a466cf935401a7ae92a14e8dfd97bd4fe30251fabff39b33c014b"
 metafile = true
 
 [[files]]
+file = "mods/additional-placements.pw.toml"
+hash = "b98293ec08693f0b6a423ff0f7cbd973918ceecf270a09e06c56d8a3c551af69"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "f69fb66341fa0ac51d6ab8637efa6f68fa97038169a186975bdaff19d7139fbb"
 metafile = true
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
@@ -392,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/trenzalore.pw.toml"
 hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
+metafile = true
+
+[[files]]
+file = "mods/world-border.pw.toml"
+hash = "18a2c5562acc2fd6531270bd1ad63899c482d4cac8935b320f90a8dd34b545fe"
 metafile = true
 
 [[files]]
