@@ -400,6 +400,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "e13f7564c66d7cd8fcad6e7c973cec01c51298445385f65a995d2d469e08497d"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "e2615312dcf7aaa1a831a76a3bd215dd37c03bf7ba48a7aeecc5f886c5c62888"
 metafile = true
