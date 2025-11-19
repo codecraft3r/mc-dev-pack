@@ -315,11 +315,6 @@ hash = "9ffaf9a44c00156d1e613884271c8224db4cbf019e5d032d5b444bdba983122f"
 metafile = true
 
 [[files]]
-file = "mods/origins-neoforge.pw.toml"
-hash = "142d04da7bfb9ff5fb0c53f78f84da370d860f23a420c0f21a9f0fdcd3dae91a"
-metafile = true
-
-[[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
