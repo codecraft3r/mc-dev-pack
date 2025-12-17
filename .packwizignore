@@ -4,3 +4,4 @@ docker-compose.yml
 .DS_Store
 docs/*
 .github/*
+resourcepacks/*

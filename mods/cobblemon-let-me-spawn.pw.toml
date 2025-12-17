@@ -1,0 +1,13 @@
+name = "Cobblemon - Let Me Spawn"
+filename = "let_me_spawn-fabric-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jQAWLKxe/versions/x878n2Vl/let_me_spawn-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "8e32db289908c76b5287f286effd8aa731e8f0fb65259804d0e0b2657753258fd5a60a5eb163fec7b27cf7ffa2e89560ed46c74673ed1792bae1bbe6d88570ec"
+
+[update]
+[update.modrinth]
+mod-id = "jQAWLKxe"
+version = "x878n2Vl"
