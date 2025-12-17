@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "squaremap/config.yml"
+hash = "cbb86e3a1320d5dd7bebe5709cddea7e6b477dbfbe6f4cc8348b27ffcd0b9813"

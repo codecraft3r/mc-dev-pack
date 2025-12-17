@@ -9,10 +9,11 @@ services:
         - EULA=TRUE
         - MEMORY=6G
         - RCON_PASSWORD=packwiz
-        - TYPE=NEOFORGE
+        - TYPE=FABRIC
         - VERSION=1.21.1
         - PACKWIZ_URL=https://raw.githubusercontent.com/codecraft3r/mc-dev-pack/refs/heads/main/pack.toml
         - ENABLE_RCON=TRUE
+        #- RESOURCE_PACK=
     image: itzg/minecraft-server
     networks:
       lan:
