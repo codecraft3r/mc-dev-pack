@@ -1,13 +1,13 @@
 name = "Cobblemon - Let Me Spawn"
-filename = "let_me_spawn-fabric-1.1.0.jar"
+filename = "let_me_spawn-neoforge-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/jQAWLKxe/versions/x878n2Vl/let_me_spawn-fabric-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/jQAWLKxe/versions/QNzbITCd/let_me_spawn-neoforge-1.1.0.jar"
 hash-format = "sha512"
-hash = "8e32db289908c76b5287f286effd8aa731e8f0fb65259804d0e0b2657753258fd5a60a5eb163fec7b27cf7ffa2e89560ed46c74673ed1792bae1bbe6d88570ec"
+hash = "bd813fb1c149ad90ec1425580e4309e250cf1bb21afa9258c7dbb575c2ad9dc4714fde1c0bf19faca1526649e3a5640ff17b58e224d8ef50bfe1943b48a1cdca"
 
 [update]
 [update.modrinth]
 mod-id = "jQAWLKxe"
-version = "x878n2Vl"
+version = "QNzbITCd"

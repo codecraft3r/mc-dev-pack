@@ -1,13 +1,13 @@
 name = "Xaero Zoomout"
-filename = "XaeroZoomout-Fabric-1.21-2.0.0.jar"
+filename = "XaeroZoomout-NeoForge-1.21-2.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/T6oqPfxF/versions/XIx4enCh/XaeroZoomout-Fabric-1.21-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/T6oqPfxF/versions/3fOhT5TB/XaeroZoomout-NeoForge-1.21-2.0.0.jar"
 hash-format = "sha512"
-hash = "919a0ce4b9dcd05ec42507fbad0bbd5cb3f287da2ea860e7f7b331d5048e0d45fb5fb80c3486e2119801ae9c23ad1e2d55e8bae0326a60250be52f422bac9a85"
+hash = "14bd6060d16308d2dea89ce20c485025092789b83f00efb406f0becd4090d6ad31519d02c019fc20c73eb07827b5d74f5146f4d3e4e32af2f51154e1c768de95"
 
 [update]
 [update.modrinth]
 mod-id = "T6oqPfxF"
-version = "XIx4enCh"
+version = "3fOhT5TB"

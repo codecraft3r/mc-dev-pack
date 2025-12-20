@@ -1,0 +1,13 @@
+name = "Ace's Spell Utils"
+filename = "aces_spell_utils-1.1.20-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Jy4rK9m/versions/rSbd8uSD/aces_spell_utils-1.1.20-1.21.1.jar"
+hash-format = "sha512"
+hash = "6273aa989e9948af3960ccd957cd847d86b0b1c041788bae961482c75dd6da99d04a99c86572fb976c3c005c99fccbfc555bf581d7c43f1c833188e194a81ec2"
+
+[update]
+[update.modrinth]
+mod-id = "7Jy4rK9m"
+version = "rSbd8uSD"
