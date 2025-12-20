@@ -665,6 +665,11 @@ hash = "d599a1a3cdb3a0ece343aef60f19b52536a11aaaddc1e63c966069d61cee8cf8"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "2025a366af748e77e7df6fea1d736a8bdf05dc97503eb64bf13964f7bc2136b2"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "ea33d99764a8bae0618db5fc2eebec624f72f49bd6189b9818eb214687f71a82"
 metafile = true
