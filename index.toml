@@ -75,11 +75,6 @@ hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
-file = "mods/aces-spell-utils.pw.toml"
-hash = "8518568cf4d04e4e3e70a1256f47efb409677f9a2305de13489880e1267fcd36"
-metafile = true
-
-[[files]]
 file = "mods/angel-ring.pw.toml"
 hash = "8aac17572b78194ed9e51bb0e9f06d6e65ada660958fcd40c1dcf205dfe70f13"
 metafile = true
