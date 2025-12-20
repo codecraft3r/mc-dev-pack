@@ -245,6 +245,11 @@ hash = "82067a6335d517d7958661621051e0df80fcd6fa9b09f30654c81fa50a978387"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-spawn-chaining.pw.toml"
+hash = "68dd65c4c87ba0391b87515cf1d488728f2fcf8b3c95b01cab410583fe6651ba"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "73cdbfc3a6918a94ef0fde7715c3a895426e1dfd477edb3bf1e6bd3cca6aca94"
 metafile = true
