@@ -520,6 +520,11 @@ hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "238eafec0c25da72e31cefe7723d08c1be7511d23d2f33457f8874ef97b77bef"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
 metafile = true
